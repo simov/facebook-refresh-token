@@ -1,0 +1,41 @@
+{
+  "name": "facebook-refresh-token",
+  "version": "1.0.0",
+  "description": "Refresh Facebook OAuth Access Token",
+  "keywords": [
+    "facebook",
+    "refresh",
+    "oauth2",
+    "access",
+    "token"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/simov/facebook-refresh-token",
+  "author": "Simeon Velichkov <simeonvelichkov@gmail.com> (http://simov.github.io)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simov/facebook-refresh-token.git"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "grant-express": "^3.6.5",
+    "minimist": "^1.2.0",
+    "request": "^2.78.0"
+  },
+  "devDependencies": {},
+  "main": "",
+  "bin": {
+    "facebook-refresh-token": "bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {},
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
