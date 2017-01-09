@@ -70,7 +70,7 @@ Keep in mind that if you ever log out manually or due to prolonged inactivity of
 In this case execute steps 7 to 11 from the above configuration steps
 
 
-  [npm-version]: http://img.shields.io/npm/v/facebook-refresh-token.svg?style=flat-square (NPM Package Version)
+  [npm-version]: https://img.shields.io/npm/v/facebook-refresh-token.svg?style=flat-square (NPM Package Version)
 
   [npm]: https://www.npmjs.com/package/facebook-refresh-token
 
